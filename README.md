@@ -2,7 +2,7 @@
 
 Freelance developer from Estonia, building with Laravel, PHP and TypeScript. Lately: MCP servers for AI agents and tools for Estonian e-services.
 
-🌐 [pedak.me](https://pedak.me) · 🏢 [@arbictus](https://github.com/arbictus)
+🌐 [pedak.me](https://pedak.me) · 🏢 [arbictus.eu](https://arbictus.eu) · [@arbictus](https://github.com/arbictus)
 
 ## 🤖 MCP servers
 
@@ -11,9 +11,10 @@ Freelance developer from Estonia, building with Laravel, PHP and TypeScript. Lat
 | Project | What it's for |
 | --- | --- |
 | [**zone-mcp**](https://github.com/aanndryyyy/zone-mcp) | Manage [Zone.ee](https://www.zone.ee) hosting from your AI client: domains, DNS records, mail forwarders, webhosting, SSL, cron, and Apache/PHP/PM2 logs over SSH. A spec-aware request tool covers the rest of the ZoneID API v2. |
+| [**ariregister-mcp**](https://github.com/aanndryyyy/ariregister-mcp) | Look up Estonian companies in the e-Business Register ([Äriregister](https://ariregister.rik.ee)): company data, people and representation rights, annual reports and their figures, beneficial owners, and e-invoice readiness. Read-only. |
 | [**hertwill-mcp**](https://github.com/aanndryyyy/hertwill-mcp) | Work with the [Hertwill](https://hertwill.com) dropshipping catalog: search products, manage your import list, and publish products to your Shopify or WooCommerce store at a set price. |
 
-Both use the MCP TypeScript SDK v2 and install with one line:
+All three use the MCP TypeScript SDK v2 and install with one line:
 
 ```bash
 claude mcp add -s user zone -- npx -y github:aanndryyyy/zone-mcp
