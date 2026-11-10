@@ -2,7 +2,7 @@
 
 Freelance developer from Estonia, building with Laravel, PHP and TypeScript. Lately: MCP servers for AI agents and tools for Estonian e-services.
 
-🌐 [pedak.me](https://pedak.me) · 🏢 [arbictus.eu](https://arbictus.eu) · [@arbictus](https://github.com/arbictus) · 🦊 [GitLab](https://gitlab.com/aanndryyyy)
+🌐 [pedak.me](https://pedak.me) · 🏢 [arbictus.eu](https://arbictus.eu) · [@arbictus](https://github.com/arbictus) · 🦊 [GitLab](https://gitlab.com/aanndryyyy) · 💼 [LinkedIn](https://www.linkedin.com/in/andrypedak)
 
 ## 🤖 MCP servers
 
